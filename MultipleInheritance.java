@@ -18,7 +18,7 @@ public void r1()
     System.out.println("Hii");
 }
 } 
-public class MultiLevelInheritance
+public class MultipleInheritance
 {
     public static void main(String args[])
     {
